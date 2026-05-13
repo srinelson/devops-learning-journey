@@ -13,6 +13,10 @@ Built hands-on, one phase at a time.
 
 ### Phase 2 — docker-compose (up next)
 - Flask + Postgres as multi-service stack
+- Wired Flask + Postgres as two-container stack
+- Internal networking via service name (db)
+- Volumes for data persistence
+- Verified data survives full stack restart
 
 ### Phase 3 — Kubernetes (coming)
 ### Phase 4 — Ansible (coming)
